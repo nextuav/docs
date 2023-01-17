@@ -13,7 +13,6 @@ Find more details about fleet management [here](/matrix%20console/features/fleet
 
 ![Dashboard](img/dashboard.png)
 
-# Drones
 
 ## Drone Fleet
 
