@@ -16,7 +16,7 @@
 ## Drone Fleet
 
 - This page gives a tabular visualisation of all your drones. 
-- Clicking on a specifc drone shows its Flight Log History. This is explained in details [here](/Matrix%20Console/Features/4.%20Flight%20Log%20History.md)
+- Clicking on a specifc drone shows its Flight Log History. This is explained in details [here](/matrix%20console/features/flight-log-history.md)
 
 ![Drones](img/drones.png)
 
