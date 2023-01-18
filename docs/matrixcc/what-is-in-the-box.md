@@ -28,6 +28,6 @@ An Network Hub connects multiple devices to the same network by physically conne
 
 ![What's in the box](img/what's_in_the_box.png)
 
-![What's in the box](/docs/matrixcc/img/what's_in_the_box.png)
+![What's in the box](img/what's_in_the_box.png)
 
 

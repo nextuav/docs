@@ -15,7 +15,7 @@ sidebar_position: 5
 
 Find more details about fleet management [here](/docs/matrix-console/features/fleet-management.md)  
 
-![Dashboard](/docs/matrix-console/components/img/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 
 ## Drone Fleet
@@ -23,7 +23,7 @@ Find more details about fleet management [here](/docs/matrix-console/features/fl
 - This page gives a tabular visualisation of all your drones. 
 - Clicking on a specifc drone shows its Flight Log History. This is explained in detail [here](/docs/matrix-console/features/flight-log-history.md) 
 
-![Drones](/docs/matrix-console/components/img/drones.png)
+![Drones](img/drones.png)
 
 ## Register Drone
 
@@ -31,7 +31,7 @@ Find more details about fleet management [here](/docs/matrix-console/features/fl
 - Enter the 16 character code.
 - Click on "Send"
 
-![Drones](/docs/matrix-console/components/img/register-drone.png)
+![Drones](img/register-drone.png)
 
 # Flights
 
@@ -40,12 +40,12 @@ Find more details about fleet management [here](/docs/matrix-console/features/fl
 - Clicking on a specific path taken by the drone shows crucial Flight Details.
 - You can also generate a report of your flight. This is explained in detail [here](/docs/matrix-console/features/report.md) 
 
-![Flights](/docs/matrix-console/components/img/flights.png)
+![Flights](img/flights.png)
 
 # Pilots
 
 - Details of all pilots will be displayed here. 
 - This data can be sorted on the basis of active and inactive pilot accounts. 
-![Pilots](/docs/matrix-console/components/img/pilots.png)
+![Pilots](img/pilots.png)
 - Selecting a pilot's profile will display all their information and the list of drones they have access to.
-![Pilot Profile](/docs/matrix-console/components/img/pilot-profile.png)
+![Pilot Profile](img/pilot-profile.png)
