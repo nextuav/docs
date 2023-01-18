@@ -1,3 +1,9 @@
+---
+sidebar_position: 8
+---
+
+# Flight Operations
+
 # Take off
 
  - To begin flying, press the "Takeoff" button on the controller. 

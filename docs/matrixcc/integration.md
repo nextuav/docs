@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Integration
 
 In this section you'd find the electronics integration of main components. 

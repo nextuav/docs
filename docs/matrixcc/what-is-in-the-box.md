@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # What's in the box?
 
 ## Matrix CC

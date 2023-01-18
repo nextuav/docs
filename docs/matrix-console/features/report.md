@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Report Generation 
 
 - This feature allows you to generate a report of your drone flight in a pdf format. 
