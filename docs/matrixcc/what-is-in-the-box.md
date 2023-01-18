@@ -20,8 +20,11 @@ The antennas are a crucial component along with the MCC to extend the range of t
 
 ## Tamper Proofing Solution (optional)
 
+A tamper-proof system will prevent the drone from taking off if any tampering is detected, such as opening the top, bottom, or side plates. If tampering is detected, the drone's warranty will become void. To regain the ability to take off, the user must contact the manufacturer.
 
 ## Ethernet Switch (optional)
+
+An Ethernet switch connects multiple devices to the same network by physically connecting them to the switch using cables. Once a device is connected to a port on the switch, it manages the flow of data between the connected devices by directing incoming and outgoing data to the correct port based on the device's IP address.
 
 ![What's in the box](img/what's_in_the_box.png)
 
