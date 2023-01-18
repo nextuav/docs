@@ -1,4 +1,8 @@
-# Dashboard 
+---
+sidebar_position: 5
+---
+
+# Overview Dashboard
 
 ## Organisation Insights
 
@@ -41,7 +45,7 @@ Find more details about fleet management [here](/matrix%20console/features/fleet
 # Pilots
 
 - Details of all pilots will be displayed here. 
-- This data can be sorted on the basis of ative and inactive pilot accounts. 
+- This data can be sorted on the basis of active and inactive pilot accounts. 
 ![Pilots](img/pilots.png)
 - Selecting a pilot's profile will display all their information and the list of drones they have access to.
 ![Pilot Profile](img/pilot-profile.png)

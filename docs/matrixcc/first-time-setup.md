@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # First Time Setup: Client
 
 # Electronics
