@@ -13,17 +13,17 @@ sidebar_position: 5
 - Pilots : Total number of ACTIVE pilots. 
 - Reports : Total number of reports generated. 
 
-Find more details about fleet management [here](/matrix%20console/features/fleet-management.md)  
+Find more details about fleet management [here](/docs/matrix-console/features/fleet-management.md)  
 
-![Dashboard](img/dashboard.png)
+![Dashboard](/docs/matrix-console/components/img/dashboard.png)
 
 
 ## Drone Fleet
 
 - This page gives a tabular visualisation of all your drones. 
-- Clicking on a specifc drone shows its Flight Log History. This is explained in detail [here](/matrix%20console/features/flight-log-history.md) 
+- Clicking on a specifc drone shows its Flight Log History. This is explained in detail [here](/docs/matrix-console/features/flight-log-history.md) 
 
-![Drones](img/drones.png)
+![Drones](/docs/matrix-console/components/img/drones.png)
 
 ## Register Drone
 
@@ -31,21 +31,21 @@ Find more details about fleet management [here](/matrix%20console/features/fleet
 - Enter the 16 character code.
 - Click on "Send"
 
-![Drones](img/register-drone.png)
+![Drones](/docs/matrix-console/components/img/register-drone.png)
 
 # Flights
 
 - This section displays flight data for your drones in a tabular format.
 - You can sort this data on the basis of flight status.
 - Clicking on a specific path taken by the drone shows crucial Flight Details.
-- You can also generate a report of your flight. This is explained in detail [here](/matrix%20console/features/report.md) 
+- You can also generate a report of your flight. This is explained in detail [here](/docs/matrix-console/features/report.md) 
 
-![Flights](img/flights.png)
+![Flights](/docs/matrix-console/components/img/flights.png)
 
 # Pilots
 
 - Details of all pilots will be displayed here. 
 - This data can be sorted on the basis of active and inactive pilot accounts. 
-![Pilots](img/pilots.png)
+![Pilots](/docs/matrix-console/components/img/pilots.png)
 - Selecting a pilot's profile will display all their information and the list of drones they have access to.
-![Pilot Profile](img/pilot-profile.png)
+![Pilot Profile](/docs/matrix-console/components/img/pilot-profile.png)
