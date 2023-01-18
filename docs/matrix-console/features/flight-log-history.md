@@ -25,4 +25,4 @@ Flight details shows important data of your flights. Some crucial terms are expl
 - Yaw (°) graph shows the angle at which the drone is rotated left or right. 
 
 
-![Flight log history](/docs/matrix-console/features/img/flight-log-history.png)
+![Flight log history](img/flight-log-history.png)

@@ -23,7 +23,7 @@ The antennas are a crucial component along with the MCC to extend the range of t
 
 ## Ethernet Switch (optional)
 
-![What's in the box](/docs/matrixcc/img/what's_in_the_box.png)
+![What's in the box](img/what's_in_the_box.png)
 
 
 
