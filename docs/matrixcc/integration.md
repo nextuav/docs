@@ -13,6 +13,7 @@ In this section you'd find the electronics integration of main components.
 ## P2 : RADIO LINK
 - Cable : 6 pin
 - Connect the P2 port of the MatrixCC to the air unit using a UART cable. 
+- *Standard Connection:* Connect the air unit to your autopilot 
 
 ## P3 : FLIGHT CONTROLLER
 - Cable : 6 pin
