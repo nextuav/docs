@@ -6,7 +6,7 @@ sidebar_position: 6
 
 In this section you'd find the electronics integration of main components. 
 
-## P1 : ETHERNET
+## P1 : ETHERNET (optional)
 - Cable : 4 pin
 - Connect the P1 port of the MatrixCC to the P1 port of the Ethernet Switch. 
 
@@ -28,3 +28,6 @@ In this section you'd find the electronics integration of main components.
 ## P8 : TAMPER PROOFING (optional)
 - Cable : 6 pin 
 - Connect the tampering proofing module to the port 8 using the given cable. 
+
+## Payload (optional)
+This section explains the integration of MatrixCC with IP and HDMI cameras. To illustrate an example the IP camera used is a SIYI MK15 IP67 and HDMI camera is Q10F. 
