@@ -7,7 +7,7 @@ sidebar_position: 6
 In this section you'd find the electronics integration of main components. 
 ![MatrixCC Integration](img/matrixcc-integration.png)
 
-## Antennas
+## ANTENNAS
 - Connect the 2 antennas of the Quectel module (MAIN | DIV)
 - For simplicity the antennas have been removed in the following sections.
 
@@ -24,7 +24,12 @@ In this section you'd find the electronics integration of main components.
 - Connect the P2 port of the MatrixCC to the air unit using a UART cable. 
 - *Standard Connection:* Connect the air unit to your autopilot 
 
+### Herelink
+
 ![MatrixCC Integration](img/herelink-removebg-preview.png)
+
+### MK15
+
 ![MatrixCC Integration](img/mk15-removebg-preview.png)
 
 ## P3 : POWER
@@ -47,7 +52,7 @@ In this section you'd find the electronics integration of main components.
 
 ![MatrixCC Integration](img/tamper-proof-removebg-preview.png)
 
-## Payload (optional)
+## PAYLOAD (optional)
 This section explains the integration of MatrixCC with an IP camera. To illustrate an example the IP camera used is a SIYI MK15 IP67.
 *USB type:* Use the 4 pin JST to USB connector.
 Power supply should not be given into 4-pin and 6-pin JST connectors (use them as output only)​​
