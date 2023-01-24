@@ -8,9 +8,9 @@ sidebar_position: 7
 
 **Gather the following-**
 
-1. Flight Controller [Pixhawk, Ardupilot]
+1. Flight Controller [Pixhawk, CubePilot Cube Orange]
 2. Transmitter [MK15, Herelink V1.1, Herelink V2]
-3. Receiver [Air Unit]
+3. Air Unit
 4. MatrixCC (MCC)
 5. Laptop
 
