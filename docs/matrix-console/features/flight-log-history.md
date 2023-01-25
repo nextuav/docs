@@ -12,6 +12,8 @@ Flight details shows important data of your flights. Some crucial terms are expl
 - Flight Length : Total distance covered by the drone.
 - Side Overlap : The degree to which the images captured by a drone's camera overlap with each other when capturing a large area. This is used for creating accurate and detailed maps.
 
+![Flight log history](img/flight-log-history.gif)
+
 ## Graphs 
 
 - Battery Percentage (%) graph shows the remaining battery power of the drone as a percentage of the total capacity. It is significant as it allows the operator to keep track of how much flight time is left before the drone needs to be recharged or replaced.
@@ -23,6 +25,5 @@ Flight details shows important data of your flights. Some crucial terms are expl
 - Pitch (°) graph shows the angle at which the drone is tilted forwards or backwards. 
 - Roll (°) graph shows the angle at which the drone is tilted to the left or right. 
 - Yaw (°) graph shows the angle at which the drone is rotated left or right. 
-
 
 ![Flight log history](img/flight-log-history.png)
