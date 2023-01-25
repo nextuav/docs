@@ -28,7 +28,7 @@ An Network Hub connects multiple devices to the same network by physically conne
 
 ![What's in the box](img/what's_in_the_box.png)
 
-An Ethernet switch connects multiple devices to the same network by physically connecting them to the switch using cables. Once a device is connected to a port on the switch, it manages the flow of data between the connected devices by directing incoming and outgoing data to the correct port based on the device's IP address.
+An Network Hub connects multiple devices to the same network by physically connecting them to the switch using cables. Once a device is connected to a port on the switch, it manages the flow of data between the connected devices by directing incoming and outgoing data to the correct port based on the device's IP address.
 
 ![What's in the box](img/what's_in_the_box.png)
 
