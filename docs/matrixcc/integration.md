@@ -61,6 +61,7 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 - Cable : 6 pin 
 - Connect the tampering proofing module to the port P5 using the cable given in the box. 
 - Connect the trigger module to the S1 and S2 ports. 
+
 ![Tamper Proof](img/tamper-proof-removebg-preview.png)
 
 ## PAYLOAD (optional)
