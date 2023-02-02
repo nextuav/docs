@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Tamper Protection Screen
 
-- Ensure that your tamper proof module has a switch soldered to the correct pins [S1 & S2]
+- Please ensure that the tamper proof module is connected to the [MatrixCC](/docs/matrixcc/integration.md)
+- Your tamper proof module must have a switch soldered to the correct pins [S1 & S2] 
+- Please refer to the first time setup to open the [MatrixOS Dashboard](/docs/matrix-os/getting-started/first-time-setup.md)
 
 ## Enable Hardware Tamper monitoring
 
