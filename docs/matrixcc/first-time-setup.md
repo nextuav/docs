@@ -31,7 +31,7 @@ sidebar_position: 7
 1. Turn on your mobile hotspot and configure it like so-
   - Hotspot Name – UrbanMatrix\_EXT
   - Password – 40209357
-2. The MCC is configured to automatically connect to this network.
+2. The MCC is configured to automatically connect to this network [AP band = 2.4 GHz band]
 3. Find the IP address of MCC using any mobile app of your preference (Network Utilities)
 4. Go to [https://console.urbanmatrix.co.in/login/8000](https://console.urbanmatrix.co.in/login/8000)
 5. Login using the following credentials (this is configurable)
