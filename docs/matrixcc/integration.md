@@ -7,6 +7,8 @@ sidebar_position: 6
 In this section you'd find the electronics integration of main components. 
 ![MatrixCC Integration](img/matrixcc-integration.png)
 
+*Note: Ensure that you've inserted the SIM card properly.*
+
 ## ANTENNAS
 - Connect the 2 antennas of the cellular module (MAIN | DIV)
 - For simplicity the antennas have been removed in the following sections.
