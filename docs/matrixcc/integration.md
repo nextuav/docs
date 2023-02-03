@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Integration
 
-In this section you'd find the electronics integration of main components. 
+In this section you'd find the integration of main components. 
 ![MatrixCC Integration](img/matrixcc-integration.png)
 
 *Note: Ensure that you've inserted the SIM card properly.*
@@ -59,7 +59,7 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 
 ![Network Hub](img/ethernet-removebg-preview.png)
 
-## P5 : TAMPER PROOFING (optional)
+## P5 : TAMPER PROOF MODULE (optional)
 - Cable : 6 pin 
 - Connect the tampering proofing module to the port P5 using the cable given in the box. 
 - Connect the trigger module to the S1 and S2 ports. 
