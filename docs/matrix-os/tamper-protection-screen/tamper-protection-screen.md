@@ -30,6 +30,6 @@ sidebar_position: 1
 
 ### Test 
 
-- Hold the switch in your hand and enable the tamper monitoring option. The status must be 'untampered'
+- Press the switch and enable the tamper monitoring option. The status must be 'untampered'
 - Release the switch and check if the status changes to 'tampered' 
 - Click on reset 

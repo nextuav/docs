@@ -59,6 +59,9 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 
 ![Network Hub](img/ethernet-removebg-preview.png)
 
+![Network Hub Pin out ](img/ethernet-pin-out.png)
+
+
 ## P5 : TAMPER PROOF MODULE (optional)
 - Cable : 6 pin 
 - Connect the tampering proofing module to the port P5 using the cable given in the box. 
@@ -66,10 +69,11 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 
 ![Tamper Proof](img/tamper-proof-removebg-preview.png)
 
+![Tamper Proof pin out](img/tamp-proof-pin-out.png)
+
+
 ## PAYLOAD (optional)
 This section explains the integration of MatrixCC with an IP camera. To illustrate an example the IP camera used is a SIYI MK15 IP67.
-*USB type:* Use the 4 pin JST to USB connector.
-Power supply should not be given into 4-pin and 6-pin JST connectors (use them as output only)​​
 
 ### IP camera 
 
