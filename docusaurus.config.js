@@ -9,7 +9,7 @@ const config = {
   title: 'UrbanMatrix',
   tagline: 'Companion Computer | GCS | Cloud Platform',
   url: 'https://docs.urbanmatrix.co.in',
-  baseUrl: '/',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

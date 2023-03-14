@@ -10,7 +10,6 @@ available then the map gets zoomed into the user, otherwise you are zoomed into 
 
 ![Mission Planning Screen](./img/mission-planning-screen-intro.jpg)
 
-
 ## Menu
 
 Top left corner has another menu button that opens up various options which are shown in the image given below.
@@ -19,11 +18,10 @@ Top left corner has another menu button that opens up various options which are 
 
 - `Drone Location`: Zoom into the location of the drone.
 - `My Location`: Zoom into the location of the transmitter.
-- `Map Type`: Switch between satellite and normal map types. 
+- `Map Type`: Switch between satellite and normal map types.
 - `Mission Info`: Information about the current mission.
 - [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
 - [`App Settings`](/docs/launchpad/settings/app-settings.md)
-
 
 ## Drawing Buttons
 
@@ -36,7 +34,6 @@ There are 5 other options right below the menu button. They are (from top to bot
 - `Delete Drawing`
 - `Save Drawing`
 - `Proceed to Mission Parameters`
-
 
 ## Drawing Basics
 
@@ -52,14 +49,12 @@ Next tap anywhere else on the map to add a new vertex. A blue line will be creat
 Based on the mission type, you can either create a line or a polygon. These are covered in detail in the
 [Mission Planning](/docs/category/mission-planning) Section.
 
-
 ## Mission Parameter Sheet
 
 Based on the mission type, the user is prompted different types mission parameters. These are covered in detail in the
 [Mission Planning](/docs/category/mission-planning) Section.
 
 ![Mission Parameters](./img/mission-planning-screen-parameter-sheet.jpg)
-
 
 ## Done Button
 
