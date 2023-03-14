@@ -51,19 +51,13 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'UrbanMatrix logo',
+          alt: 'logo',
           src: 'img/logo.png',
           width: 200
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/urbanmatrix/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -76,8 +70,24 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Home',
+                to: '/',
+              },
+              {
+                label: 'Launchpad',
+                to: 'category/launchpad/',
+              },
+              {
+                label: 'MatrixConsole',
+                to: '/category/matrix-console',
+              },
+              {
+                label: 'MatrixCC',
+                to: '/category/matrixcc',
+              },
+              {
+                label: 'MatrixOS Dashboard',
+                to: '/category/matrixos-dashboard',
               },
             ],
           },
@@ -85,16 +95,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/urbanmatrix_in',
+              },
+              {
+                label: "Youtube",
+                href: 'https://www.youtube.com/@urbanmatrixdrones'
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/urbanmatrix/',
               },
             ],
           },
@@ -103,12 +113,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/urbanmatrix/docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UrbanMatrix. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
