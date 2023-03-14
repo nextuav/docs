@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'UrbanMatrix',
   tagline: 'Companion Computer | GCS | Cloud Platform',
-  url: process.env.URL ? `${process.env.URL}/docs/` : 'https://docs.urbanmatrix.co.in/docs/',
+  url: process.env.URL || 'https://docs.urbanmatrix.co.in/',
   baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
