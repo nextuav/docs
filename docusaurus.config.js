@@ -49,11 +49,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
         logo: {
           alt: 'logo',
-          src: 'img/logo.png',
-          width: 200
+          src: 'img/logo.svg',
+          width: 48,
+          height: 48
         },
         items: [
           {
