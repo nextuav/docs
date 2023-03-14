@@ -20,8 +20,8 @@ Top left corner has another menu button that opens up various options which are 
 - `My Location`: Zoom into the location of the transmitter.
 - `Map Type`: Switch between satellite and normal map types.
 - `Mission Info`: Information about the current mission.
-- [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
-- [`App Settings`](/docs/launchpad/settings/app-settings.md)
+- [`Drone Settings`](/launchpad/settings/drone-settings.md)
+- [`App Settings`](/launchpad/settings/app-settings.md)
 
 ## Drawing Buttons
 
@@ -47,12 +47,12 @@ Next tap anywhere else on the map to add a new vertex. A blue line will be creat
 ![Create Drawing 2](./img/mission-planning-screen-create-drawing-2.jpg)
 
 Based on the mission type, you can either create a line or a polygon. These are covered in detail in the
-[Mission Planning](/docs/category/mission-planning) Section.
+[Mission Planning](/category/mission-planning) Section.
 
 ## Mission Parameter Sheet
 
 Based on the mission type, the user is prompted different types mission parameters. These are covered in detail in the
-[Mission Planning](/docs/category/mission-planning) Section.
+[Mission Planning](/category/mission-planning) Section.
 
 ![Mission Parameters](./img/mission-planning-screen-parameter-sheet.jpg)
 
