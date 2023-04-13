@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/urbanmatrix/docs/edit/main/',
+            'https://github.com/nextuav/docs/edit/main/',
         },
         blog: false
       }),
@@ -58,7 +58,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/urbanmatrix/docs',
+            href: 'https://github.com/nextuav/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/urbanmatrix/docs',
+                href: 'https://github.com/nextuav/docs',
               },
             ],
           },
