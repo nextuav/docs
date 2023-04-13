@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# First Time Setup: Client
+# First Time Setup
 
 ## STEP 1 :
 
