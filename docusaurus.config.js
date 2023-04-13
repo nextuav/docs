@@ -76,19 +76,15 @@ const config = {
               },
               {
                 label: 'Launchpad',
-                to: 'category/launchpad/',
+                to: '/category/launchpad/',
               },
               {
                 label: 'NextConsole',
-                to: '/category/matrix-console',
+                to: '/category/next-console',
               },
               {
-                label: 'MatrixCC',
-                to: '/category/matrixcc',
-              },
-              {
-                label: 'MatrixOS Dashboard',
-                to: '/category/matrixos-dashboard',
+                label: 'NextCC',
+                to: '/category/next-cc',
               },
             ],
           },
