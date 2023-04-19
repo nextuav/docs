@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'urbanmatrix', // Usually your GitHub org/user name.
+  organizationName: 'nextuav', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -92,16 +92,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/urbanmatrix_in',
-              },
-              {
-                label: "Youtube",
-                href: 'https://www.youtube.com/@urbanmatrixdrones'
-              },
-              {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/urbanmatrix/',
+                href: 'https://www.linkedin.com/showcase/nextuav-global/about/',
               },
             ],
           },
