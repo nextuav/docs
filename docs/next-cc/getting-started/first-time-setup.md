@@ -18,5 +18,5 @@ sidebar_position: 3
 - Find the IP address of NextCC using any mobile app of your preference (Download app- Network Utilities)
 - Go to link: ip-of-cc:8000
 - Login using the following credentials (this is configurable)
-    - Username – admin
-    - Password – password
+    - Username – `admin`
+    - Password – `password`
