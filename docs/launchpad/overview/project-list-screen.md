@@ -4,27 +4,35 @@ sidebar_position: 2
 
 # Project List Screen
 
+The Project List Screen is the screen that lets you create and manage several projects. A project is a set of missions
+conducted in an area.
+
 ![Project List Screen](./img/project-list-screen-intro.jpg)
-
-The above screen will be displayed right after the user provides access to all the required permissions.
-
-## Create Project
-
-Lets you create a particular project which can contain several missions.
 
 For example, a project can be created separately for a survey at a specific area in Delhi and it can contain various
 autonomous missions for that particular area. Another project can contain only missions for a survey in some Mumbai
 area.
 
-![Create Project](./img/project-list-screen-create-project.jpg)
+## Create Project
+
+Lets you create a particular project which can contain several missions.
 
 The `Enter Project Title` dialog will appear when you tap the `Create Project` button.
 
-![Invalid Title](./img/project-list-screen-invalid-title.jpg)
+![Create Project](./img/project-list-screen-create-project.jpg)
 
 You can name the project using any combination of alphabets and numbers only, no special characters are allowed in the
 naming of the project. An invalid title error as shown in the above image will be displayed. Examples of some special
 characters are `!@#$%^&*"'`
+
+![Invalid Title](./img/project-list-screen-invalid-title.jpg)
+
+## Project List
+
+When you create a project, it gets added to the project list. Clicking on any project will take you to the the
+[Mission List Screen](./mission-list-screen.md) for that project.
+
+![Project List](./img/project-list-screen-project-list.jpg)
 
 ## Manual Flight
 
