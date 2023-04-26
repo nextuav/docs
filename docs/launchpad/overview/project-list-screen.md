@@ -4,10 +4,10 @@ sidebar_position: 2
 
 # Project List Screen
 
-The Project List Screen is the screen that lets you create and manage several projects. A project is a set of missions
-conducted in an area.
+The Project List Screen lets you create and manage several projects. A project is a set of missions  conducted in an
+area.
 
-![Project List Screen](./img/project-list-screen-intro.jpg)
+![Intro](./img/project-list-screen-intro.jpg)
 
 For example, a project can be created separately for a survey at a specific area in Delhi and it can contain various
 autonomous missions for that particular area. Another project can contain only missions for a survey in some Mumbai
@@ -43,8 +43,7 @@ If you want to fly the drone manually this option must be selected. This will ta
 
 The blue button with three horizontal white lines represents the menu button.
 
-![Menu](./img/project-list-screen-menu.jpg)
-
 The two options that can be selected when you tap the menu button are the
-[`App Settings`](/launchpad/settings/app-settings.md) and
-[`Drone Settings`](/launchpad/settings/drone-settings.md).
+[`App Settings`](/launchpad/settings/app-settings.md) and [`Drone Settings`](/launchpad/settings/drone-settings.md).
+
+![Menu](./img/project-list-screen-menu.jpg)
