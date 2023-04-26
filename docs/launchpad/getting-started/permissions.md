@@ -19,4 +19,4 @@ able to store the compressed versions of the drone camera pictures.
 
 ## Bluetooth Permissions
 
-These permissions are required for LaunchPad to connect the device using Bluetooth.
+These permissions are required for LaunchPad to connect to a telemetry device using Bluetooth.
