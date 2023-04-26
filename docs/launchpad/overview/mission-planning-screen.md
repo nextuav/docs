@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Mission Planning Screen allows you to create the flight path and set the required parameters for the specific
 mission type. To keep the workflow simple, this screen shows only the parameters that are required by the mission type.
-For more details on each mission type, refer the [Mission Planning](/category/mission-planning) section.
+For more details on each mission type, refer the [Mission Planning](/launchpad/mission-planning) section.
 
 ![Intro](./img/mission-planning-screen-intro.jpg)
 
@@ -56,12 +56,12 @@ You can also click the `Add Vertex at Drone Location` (bottom right) to add a ve
 ![Drawing Basics 3](./img/mission-planning-screen-drawing-basics-3.jpg)
 
 Based on the mission type, you can either create a line or a polygon. These are covered in detail in the
-[Mission Planning](/category/mission-planning) section.
+[Mission Planning](/launchpad/mission-planning) section.
 
 ## Mission Parameter Sheet
 
 Based on the mission type, the user is prompted different types mission parameters. These are covered in detail in the
-[Mission Planning](/category/mission-planning) section.
+[Mission Planning](/launchpad/mission-planning) section.
 
 ![Mission Parameters](./img/mission-planning-screen-parameter-sheet.jpg)
 
