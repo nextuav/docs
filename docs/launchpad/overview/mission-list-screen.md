@@ -23,7 +23,7 @@ LaunchPad currently offers 6 different types of automated missions:
 
 ## Mission Item Buttons
 
-Each mission item has three buttons.
+Each mission item has three buttons:
 
 - `Play`: Loads the [Mission Planning Screen](./mission-planning-screen.md) with the mission.
 - `Delete`: Delete the mission.
