@@ -12,8 +12,8 @@ by foot or vehicle, and can save time and costs compared to traditional surveyin
 
 ## Create Mission
 
-Select the `Photo Single Grid` mission type in the [Mission List Screen](/launchpad/overview/mission-list-screen.md) to create
-the mission. This will open the [Mission Planning Screen](/launchpad/overview/mission-planning-screen.md).
+Select the `Photo Single Grid` mission type in the [Mission List Screen](/launchpad/overview/mission-list-screen.md) to
+create the mission. This will open the [Mission Planning Screen](/launchpad/overview/mission-planning-screen.md).
 
 ![Create](./img/photo-single-grid-create.jpg)
 
