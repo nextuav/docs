@@ -6,8 +6,6 @@ sidebar_position: 3
 
 ![NextCC Integration](./img/setup-hardware-intro.png)
 
-*Note: Ensure that you've inserted the SIM card properly.*
-
 ## Antennas
 
 Connect the 2 antennas to the **MAIN** and **DIV** pins of the cellular module.
@@ -37,7 +35,7 @@ The SIM card should be inserted as shown.
 
 *Note: Do not power the Pixhawk or any other component using the 5V provided by the NextCC.*
 
-## P2 : RADIO LINK
+## Telemetry Receiver (P2)
 
 - Cable : 6 pin
 - Connect the P2 port of the NextCC to the air unit using a UART cable.
