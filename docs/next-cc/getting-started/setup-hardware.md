@@ -29,9 +29,9 @@ The SIM card should be inserted as shown.
   **MAVLink 2** output.
 - Use the JST cable to connect the **TELEM** port of the Pixhawk to the **P1 (UART2)** port of the NextCC.
 
-![Autopilot](./img/setup-hardware-fcu.png)
+![FCU](./img/setup-hardware-fcu.png)
 
-![PIN OUT- Flight Controller](./img/setup-hardware-fcu-pin-out.png)
+![FCU Pin Out](./img/setup-hardware-fcu-pin-out.png)
 
 *Note: Do not power the Pixhawk or any other component using the 5V provided by the NextCC.*
 
