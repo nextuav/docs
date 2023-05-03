@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Setup Connection
+# Connection Setup
 
 LaunchPad provides a number of ways to create the telemetry connection. Setup the connection mode according to your
 telemetry device's specification and click the `Done` button to continue.
@@ -11,7 +11,7 @@ telemetry device's specification and click the `Done` button to continue.
 
 The app acts as a UDP server. The user needs to input the `UDP Port` provided by the telemetry device.
 
-![UDP Server](./img/setup-connection-udp-server.jpg)
+![UDP Server](./img/connection-setup-udp-server.jpg)
 
 This mode is useful when the telemetry transmitter is a *Herelink*. When the user's phone is connected to the
 *Herelink's* hotspot, the telemetry data is available at the port number **14550**.
@@ -20,13 +20,13 @@ This mode is useful when the telemetry transmitter is a *Herelink*. When the use
 
 The app acts as a TCP server. The user needs to input the `TCP Port` provided by the telemetry device.
 
-![TCP Server](./img/setup-connection-tcp-server.jpg)
+![TCP Server](./img/connection-setup-tcp-server.jpg)
 
 ## TCP Client
 
 The app acts as a TCP client. The user needs to input the `TCP Port and Address` provided by the telemetry device.
 
-![TCP Server](./img/setup-connection-tcp-client.jpg)
+![TCP Server](./img/connection-setup-tcp-client.jpg)
 
 ## Serial
 
@@ -35,7 +35,7 @@ USB port and enable the **USB OTG** mode in the phone's settings.
 
 Set the correct `Baud Rate` provided by the serial device.
 
-![Serial](./img/setup-connection-serial.jpg)
+![Serial](./img/connection-setup-serial.jpg)
 
 For *SIYI MK15*, this mode is used for data transfer when the *MK15's* link is configured to be in the **USB COM** mode.
 
@@ -49,10 +49,10 @@ instructions on how to pair the telemetry device with your phone.
 Click the `Mode` dropdown menu and select the `Bluetooth` option. Provide the Bluetooth permissions to allow LaunchPad
 to use the modem.
 
-![Bluetooth Permission](./img/setup-connection-bluetooth-permission.jpg)
+![Bluetooth Permission](./img/connection-setup-bluetooth-permission.jpg)
 
 Select the telemetry device from the list of available devices to setup the connection.
 
-![Bluetooth Device](./img/setup-connection-bluetooth-device.jpg)
+![Bluetooth Device](./img/connection-setup-bluetooth-device.jpg)
 
 This mode can be used with any *SkyDroid* device.
