@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Setup Hardware
+# Hardware Setup
 
 NextCC acts as a bridge between the flight controller and the telemetry air unit. It does the task of message processing
 and validation for added security missing in general MAVLink systems.
@@ -10,13 +10,13 @@ and validation for added security missing in general MAVLink systems.
 Apart from this, the NextCC can be connected with Internet Protocol (IP) cameras to provide low latency live video
 stream
 
-![NextCC Integration](./img/setup-hardware-intro.png)
+![NextCC Integration](./img/hardware-setup-intro.png)
 
 ## Antennas
 
 Connect the 2 antennas to the **MAIN** and **DIV** pins of the cellular module.
 
-![Antennas](./img/setup-hardware-antennas.png)
+![Antennas](./img/hardware-setup-antennas.png)
 
 *Note: For simplicity the antennas have been removed in the following sections.*
 
@@ -24,7 +24,7 @@ Connect the 2 antennas to the **MAIN** and **DIV** pins of the cellular module.
 
 The SIM card should be inserted as shown.
 
-![SIM Card](./img/setup-hardware-sim.png)
+![SIM Card](./img/hardware-setup-sim.png)
 
 ## Flight Controller \[P1\]
 
@@ -35,9 +35,9 @@ The SIM card should be inserted as shown.
   **MAVLink 2** output.
 - Use the JST cable to connect the **TELEM** port of the Pixhawk with the **P1 (UART2)** port of the NextCC.
 
-![FCU](./img/setup-hardware-fcu.png)
+![FCU](./img/hardware-setup-fcu.png)
 
-![FCU Pin Out](./img/setup-hardware-fcu-pin-out.png)
+![FCU Pin Out](./img/hardware-setup-fcu-pin-out.png)
 
 *Note: Do not power the Pixhawk or any other component using the 5V provided by the NextCC.*
 
@@ -50,18 +50,18 @@ The SIM card should be inserted as shown.
   NextCC.
 
 
-![Radio Link Pin Out](./img/setup-hardware-telem-rec-pin-out.png)
+![Radio Link Pin Out](./img/hardware-setup-telem-rec-pin-out.png)
 
 *Note: The pin out for a telemetry receiver is different from a Pixhawk. Please refer to the pin out diagrams of the*
 *receiver and NextCC. The users may have to swap the Rx and Tx cables in the JST connector.*
 
 ### Herelink
 
-![Herelink](./img/setup-hardware-telem-rec-herelink.png)
+![Herelink](./img/hardware-setup-telem-rec-herelink.png)
 
 ### MK15
 
-![MK15](./img/setup-hardware-telem-rec-mk15.png)
+![MK15](./img/hardware-setup-telem-rec-mk15.png)
 
 ## Power \[P3\]
 
@@ -70,22 +70,22 @@ The SIM card should be inserted as shown.
 - Make sure that there are no voltage fluctuations that may occur in flight.
 - Plug in the cellular antennas before powering on​.
 
-![Power](./img/setup-hardware-power.png)
+![Power](./img/hardware-setup-power.png)
 
 ## Network Hub \[P4\] (Optional)
 
 - Connect any port of the Network Hub with the **P4 (ETH)** port of the NextCC.
 - Use the pin out diagram to connect an IP camera to the network hub.
 
-![Network Hub](./img/setup-hardware-ethernet.png)
+![Network Hub](./img/hardware-setup-ethernet.png)
 
-![Network Hub Pin out](./img/setup-hardware-ethernet-pin-out.png)
+![Network Hub Pin out](./img/hardware-setup-ethernet-pin-out.png)
 
 ## Tamper Proof Module \[P5\] (Optional)
 
 - Connect the tamper proof module to the **P5** port.
 - Connect the trigger to the S1 and S2 ports marked on the tamper proof module.
 
-![Tamper Proof](./img/setup-hardware-tamper-proof.png)
+![Tamper Proof](./img/hardware-setup-tamper-proof.png)
 
-![Tamper Proof Pin Out](./img/setup-hardware-tamper-proof-pin-out.png)
+![Tamper Proof Pin Out](./img/hardware-setup-tamper-proof-pin-out.png)

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Setup Software
+# Software Setup
 
 ## STEP 1 :
 
