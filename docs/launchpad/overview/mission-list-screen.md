@@ -10,14 +10,17 @@ The Mission List Screen helps you manage several autonomous missions inside a pa
 
 ## Create Mission
 
-LaunchPad currently offers 6 different types of automated missions:
+LaunchPad currently offers 6 different types of automated missions under 3 categories:
 
-- [`Photo Single Grid`](/launchpad/mission-planning/photo-single-grid.md)
-- [`Photo Double Grid`](/launchpad/mission-planning/photo-double-grid.md)
-- [`Photo Line`](/launchpad/mission-planning/photo-line.md)
-- [`Video Line`](/launchpad/mission-planning/video-line.md)
-- [`Recon Line`](/launchpad/mission-planning/recon-line.md)
-- [`Spray Single Grid`](/launchpad/mission-planning/spray-single-grid.md)
+- Survey
+  - [`Photo Single Grid`](/launchpad/mission-planning/photo-single-grid.md)
+  - [`Photo Double Grid`](/launchpad/mission-planning/photo-double-grid.md)
+  - [`Photo Line`](/launchpad/mission-planning/photo-line.md)
+- Surveillance
+  - [`Video Line`](/launchpad/mission-planning/video-line.md)
+  - [`Recon Line`](/launchpad/mission-planning/recon-line.md)
+- Agriculture
+  - [`Spray Single Grid`](/launchpad/mission-planning/spray-single-grid.md)
 
 ![Create Mission](./img/mission-list-screen-create-mission.jpg)
 

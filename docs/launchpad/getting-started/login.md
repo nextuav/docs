@@ -12,6 +12,6 @@ LaunchPad provides several login methods:
 
 `Login with Google` requires no separate registration process.
 
-For the other methods, user are required to register themselves using the `Sign up` option.
+For the other methods, users are required to register themselves using the `Sign up` option.
 
 ![Login](./img/login.jpg)
