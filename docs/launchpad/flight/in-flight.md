@@ -35,7 +35,7 @@ maintaining its altitude.
 ## Continue Mission
 
 If the mission pauses due to the pilot taking manual control or `Go to location` being triggered, then the mission can
-be resumed by clicking the `Continue Mission` option in the flight screen menu. The flight mode will change back to
-mission mode and the drone will resume the mission from where it paused.
+be resumed by clicking the `Continue Mission` option in the [Flight Screen](/launchpad/overview/flight-screen.md) menu.
+The flight mode will change back to mission mode and the drone will resume the mission from where it paused.
 
 ![Continue Mission](./img/in-flight-continue-mission.jpg)
