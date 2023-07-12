@@ -33,6 +33,8 @@ sidebar_position: 3
 4. Repeat the process for the remaining positions.
 5. Restart the drone.
 
+![PX4 Acc Cal](./img/calibration-acc-px4.jpg)
+
 ### Ardupilot - Normal
 
 1. Click the `Calibrate` button.
@@ -42,11 +44,16 @@ sidebar_position: 3
 4. Repeat the process fot the remaining positions.
 5. Restart the drone.
 
-![Ardupilot - Normal](./img/calibration-acc-apm-normal.jpg)
+![Ardupilot Acc Cal - Normal](./img/calibration-acc-apm-normal.jpg)
 
 ### Ardupilot - Fast
 
-![Ardupilot - Fast](./img/calibrateion-acc-apm-fast.jpg)
+1. Place the drone in the level flight position on a level surface.
+2. Click the `Calibrate` button.
+3. Let the calibration complete on its own. It will take a few seconds for it to complete.
+4. Restart the drone.
+
+![Ardupilot Acc Cal - Fast](./img/calibrateion-acc-apm-fast.jpg)
 
 ## Magnetometer
 
@@ -60,6 +67,8 @@ sidebar_position: 3
 5. Repeat the process for the remaining positions.
 6. Restart the drone.
 
+![PX4 Mag Cal](./img/calibration-mag-px4.jpg)
+
 ### Ardupilot - Normal
 
 1. Click the `Calibrate` button.
@@ -67,11 +76,16 @@ sidebar_position: 3
 3. Continue the process till the blue progress bar on the screen fills up completely.
 4. Restart the drone.
 
-![Ardupilot - Normal](./img/calibration-mag-apm-normal.jpg)
+![Ardupilot Mag Cal - Normal](./img/calibration-mag-apm-normal.jpg)
 
 ### Ardupilot - Simple
 
-![Ardupilot - Simple](./img/calibration-mag-apm-simple.jpg)
+1. Place the drone on a level surface and align its heading with the **True North** direction.
+2. Click the `Calibrate` button.
+3. Let the calibration complete on its own. It will take a few seconds for it to complete.
+4. Restart the drone.
+
+![Ardupilot Mag Cal - Simple](./img/calibration-mag-apm-simple.jpg)
 
 ## Flow Meter
 
