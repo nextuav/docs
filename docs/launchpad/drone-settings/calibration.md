@@ -22,6 +22,57 @@ sidebar_position: 3
 
 ![Gyroscope](./img/calibration-gyroscope.jpg)
 
+## Accelerometer
+
+### PX4
+
+1. Click the `Calibrate` button.
+2. Hold the drone still in one of the positions shown on the screen. The outline of the detected position will turn
+   blue.
+3. Once the calibration for the position is complete, the outline will turn green.
+4. Repeat the process for the remaining positions.
+5. Restart the drone.
+
+### Ardupilot - Normal
+
+1. Click the `Calibrate` button.
+2. LaunchPad will indicate the position that the drone is required to be placed at by turning the outline of the
+   position blue.
+3. Place the drone in the position and click the `Next` button.
+4. Repeat the process fot the remaining positions.
+5. Restart the drone.
+
+![Ardupilot - Normal](./img/calibration-acc-apm-normal.jpg)
+
+### Ardupilot - Fast
+
+![Ardupilot - Fast](./img/calibrateion-acc-apm-fast.jpg)
+
+## Magnetometer
+
+### PX4
+
+1. Click the `Calibrate` button.
+2. Lift the drone and hold the drone still in one of the positions shown on the screen. The outline of the detected
+   position will turn blue.
+3. Rotate the drone around the axis in one or both directions.
+4. Once the calibration for the position is complete, the outline will turn green.
+5. Repeat the process for the remaining positions.
+6. Restart the drone.
+
+### Ardupilot - Normal
+
+1. Click the `Calibrate` button.
+2. Lift the drone and rotate it with full 360-degree turns so that each side points down for a few seconds.
+3. Continue the process till the blue progress bar on the screen fills up completely.
+4. Restart the drone.
+
+![Ardupilot - Normal](./img/calibration-mag-apm-normal.jpg)
+
+### Ardupilot - Simple
+
+![Ardupilot - Simple](./img/calibration-mag-apm-simple.jpg)
+
 ## Flow Meter
 
 Flow meter calibration works only on the drones that have a NextCC installed. Refer the
