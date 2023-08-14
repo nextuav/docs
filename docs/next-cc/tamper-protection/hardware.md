@@ -7,14 +7,14 @@ sidebar_position: 1
 NextCC provides a hardware tamper protection module that drone manufacturers can use to monitor if their drone has been
 tampered with or not. If a tamper is detected, then the NextCC can stop the drone from arming.
 
-To keep things development friendly, drone manufacturers can disable this feature while they are are developing and
-testing the drone. They can enable it when they need to give the drone to their clients.
+To keep things development friendly, drone manufacturers can disable this feature while they are developing and testing
+the drone. They can enable it when they need to give the drone to their clients.
 
 ## Setup
 
-- Connect the tamper proof module to the **P5** port.
+- Connect the tamper proof module to the **P5** port of the NextCC.
 - Connect one or more triggers modules in parallel to the S1 and S2 ports marked on the tamper proof module.
-- Place the triggers on different places in your drone where it can be opened.
+- Place the triggers on different places in your drone where you want to avoid user access.
 
 ![Module](./img/hardware-setup.png)
 
