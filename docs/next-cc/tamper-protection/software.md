@@ -7,7 +7,10 @@ sidebar_position: 2
 Users can leverage the software tamper protection features that include **Parameter Update Protection** and
 **Data Part Checksum Monitoring** to make their drone systems software tamper proof.
 
-![Dashboard](./img/software.jpg)
+![Dashboard](./img/software-dashboard.jpg)
+
+To keep things development friendly, drone manufacturers can disable this feature while they are are developing and
+testing the drone. They can enable it when they need to give the drone to their clients.
 
 ## Parameter Update Protection
 
