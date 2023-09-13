@@ -15,6 +15,13 @@ It is a simple and secure dashboard that can be opened on any web browser. Think
 This section explains how you can access the dashboard for the first time and set it up so that it becomes easy for you
 to access it later.
 
+Power on the NextCC and wait a few seconds for it to boot up.
+
+The NextCC creates a **WiFi hotspot** to which you can connect your phone or computer. The hotspot name will show up as
+something like `NextCC_26d8527e82c7`, based on the ID of your NextCC. The **password** for connecting to this hotspot is
+`nextcc123`.
+
+Once connected, open the browser and go to `192.168.0.1:8000` to access the NextCC Dashboard.
 
 
 ![Login Page](./img/software-setup-dashboard-login.jpg)
@@ -25,11 +32,3 @@ The default credentials are:
 
 *Note: It is recommended that you change the login credentials for the security of your drone system. Refer the*
 *[Account](/next-cc/account.md) page for instructions on how to do so.*
-
-Once logged in, you can go to the [WiFi](/next-cc/connectivity/wifi.md) settings in the
-[Connectivity](/next-cc/connectivity) page and connect the NextCC to your office/personal WiFi. The NextCC will then
-connect to that WiFi by default.
-
-![Wifi](./img/software-setup-wifi.jpg)
-
-The network name of your NextCC will not change.

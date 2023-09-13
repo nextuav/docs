@@ -41,3 +41,5 @@ In this case, the network name of the NextCC is `nextcc-tutorial`.
 
 Open the browser on your computer and go to `<nextcc-network-name>.local:8000`. In this case, the link is
 `nextcc-tutorial.local:8000`. This will open up the NextCC Dashboard login page.
+
+The network name of your NextCC will not change.
