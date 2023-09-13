@@ -15,24 +15,7 @@ It is a simple and secure dashboard that can be opened on any web browser. Think
 This section explains how you can access the dashboard for the first time and set it up so that it becomes easy for you
 to access it later.
 
-Go to the hotspot settings on your phone and configure it with the following details:
-- Name: `NextUAV_EXT`
-- Password: `40209357`
 
-![Hotspot Settings](./img/software-setup-hotspot-settings.jpg)
-
-This is the network to which the NextCC connects out of the box. You can later configure the NextCC to connect to your
-office/personal WiFi.
-
-Power on the NextCC and wait for it to connect to the hotspot. Connect another computer to the same hotspot to access
-the NextCC Dashboard.
-
-![Connections](./img/software-setup-connections.jpg)
-
-In this case, the network name of the NextCC is `nextcc-tutorial`.
-
-Open the browser on your computer and go to `<nextcc-network-name>.local:8000`. In this case, the link is
-`nextcc-tutorial.local:8000`. This will open up the NextCC Dashboard login page.
 
 ![Login Page](./img/software-setup-dashboard-login.jpg)
 
