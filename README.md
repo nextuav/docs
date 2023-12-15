@@ -2,28 +2,15 @@
 
 ## Setup
 
-1. Install Node.js
-
+1. Install Bun
     ```bash
-    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-    source ~/.bashrc
+    curl -fsSL https://bun.sh/install | bash
     ```
 
-2. Install the latest LTS version of npm
+2. Install dependencies
     
     ```bash
-    nvm install v18.12.1
-    ```
-    
-3. Install yarn
-   ```bash
-    npm install --global yarn
-    ```
-    
-4. Install dependencies
-    
-    ```bash
-    yarn
+    bun install
     ```
 
 ## Run
