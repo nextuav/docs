@@ -19,6 +19,14 @@ stream
 | Default           | 61.0       | 65.1       | 13.7       |
 | With heat sink    | 61.0       | 65.1       | 18.7       |
 
+## Weight
+
+| **Configuration**               | **Weight (gm)** |
+|---------------------------------|-----------------|
+| Default                         | 49              |
+| With heat sink                  | 66              |
+| With heat sink and cooling fan  | 79              |
+
 ## Antennas
 
 Connect the 2 antennas to the **MAIN** and **DIV** pins of the cellular module.
