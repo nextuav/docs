@@ -10,7 +10,22 @@ and validation for added security missing in general MAVLink systems.
 Apart from this, the NextCC can be connected with Internet Protocol (IP) cameras to provide low latency live video
 stream
 
-![NextCC Integration](./img/hardware-setup-intro.png)
+![NextCC Integration](./img/hardware-setup-intro.jpg)
+
+## Dimensions
+
+| **Configuration** | **L (mm)** | **B (mm)** | **H (mm)** |
+|-------------------|------------|------------|------------|
+| Default           | 61.0       | 65.1       | 13.7       |
+| With heat sink    | 61.0       | 65.1       | 18.7       |
+
+## Weight
+
+| **Configuration**               | **Weight (gm)** |
+|---------------------------------|-----------------|
+| Default                         | 49              |
+| With heat sink                  | 66              |
+| With heat sink and cooling fan  | 79              |
 
 ## Antennas
 
@@ -88,4 +103,8 @@ The SIM card should be inserted as shown.
 
 ![Tamper Proof](./img/hardware-setup-tamper-proof.png)
 
-![Tamper Proof Pin Out](./img/hardware-setup-tamper-proof-pin-out.png)
+![Tamper Proof Pin Out](./img/hardware-setup-tamper-proof-pin-out.jpg)
+
+## P6 (Optional)
+
+![P6 Pin Out](./img/hardware-setup-p6-pin-out.jpg)
