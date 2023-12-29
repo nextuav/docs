@@ -19,6 +19,7 @@ connectivity and faster data transfer speeds.
 - 6-pin JST connectors
 - 4-pin JST connectors
 - Power cable for the NextCC
+- Antenna cables
 
 ## Tamper Proof module (optional)
 

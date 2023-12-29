@@ -88,4 +88,8 @@ The SIM card should be inserted as shown.
 
 ![Tamper Proof](./img/hardware-setup-tamper-proof.png)
 
-![Tamper Proof Pin Out](./img/hardware-setup-tamper-proof-pin-out.png)
+![Tamper Proof Pin Out](./img/hardware-setup-tamper-proof-pin-out.jpg)
+
+## P6 (Optional)
+
+![P6 Pin Out](./img/hardware-setup-p6-pin-out.jpg)
