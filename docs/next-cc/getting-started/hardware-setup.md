@@ -10,7 +10,7 @@ and validation for added security missing in general MAVLink systems.
 Apart from this, the NextCC can be connected with Internet Protocol (IP) cameras to provide low latency live video
 stream
 
-![NextCC Integration](./img/hardware-setup-intro.png)
+![NextCC Integration](./img/hardware-setup-intro.jpg)
 
 ## Antennas
 
