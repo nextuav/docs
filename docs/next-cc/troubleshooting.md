@@ -8,7 +8,7 @@ sidebar_position: 9
 
 - Check the power supply with a multimeter. It should be 5V with maximum current of 2A.
 
-- Check the LEDs on the NextCC board. The power LED should be on continuously and the others should blink from time to
+- Check the LEDs on the NextCC board. The power LED should be continuously on and the others should blink from time to
   time
 
 ### What to do if telemetry data is not coming to the GCS?
@@ -32,7 +32,18 @@ sidebar_position: 9
 
 - Check the SIM card orientation in the NextCC board. Refer the [Hardware Setup](/next-cc/getting-started/hardware-setup.md).
 
-- Ensure that the Network antennas have been connected to the NextCC in the right manner.
+- Ensure that the network antennas have been connected to the `main` and `div` ports of the cellular module.
+
+- The SIM card should have a valid recharge plan to access the internet.
+
+- For a new SIM card, insert it in your mobile and check whether the internet is working properly and then insert the
+  card in NextCC.
+
+- If the SIM card is not inserted or inserted in the wrong orientation, in dashboard it will show the connectivity
+  status as `Failed`.
+
+- If the network antennas are not connected properly in the cellular module, in dashboard it will show the connectivity
+  status as `Searching`.
 
 - Check the connection status in NextCC dashboard's [Cellular Connectivity](/next-cc/connectivity/cellular.md) page. If
   the `Connection Status` is `Connecting` wait for a few minutes. If the status does not change or the status is
@@ -51,4 +62,4 @@ sidebar_position: 9
 
 * Check the connection of the tamper module and the NextCC.
   
-* Replace the battery of the tamper module.
+* Check the cell voltage of the tamper module. Replace the cell if its below **2.5V**.
