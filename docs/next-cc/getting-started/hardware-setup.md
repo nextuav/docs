@@ -12,6 +12,13 @@ stream
 
 ![NextCC Integration](./img/hardware-setup-intro.jpg)
 
+## Dimensions
+
+| **Configuration** | **L (mm)** | **B (mm)** | **H (mm)** |
+|-------------------|------------|------------|------------|
+| Default           | 61.0       | 65.1       | 13.7       |
+| With heat sink    | 61.0       | 65.1       | 18.7       |
+
 ## Antennas
 
 Connect the 2 antennas to the **MAIN** and **DIV** pins of the cellular module.
